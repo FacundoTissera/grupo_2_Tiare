@@ -1,2 +1,25 @@
-hola como andas, yo soy facundo! 
-hola Soy Bea
+
+Beatriz Hambeck
+Uruguaya - Lic en Administración - Contadora - 
+Profe de Patín - Emprendedora
+Disfruto la naturaleza y mi orgullo es mi familia.
+
+TIARE:
+Es un emprendimiento dedicado a la venta de ropa y accesorios para mujeres. La marca posee un showroom que durante estos tiempos y con las medidas de distanciamiento y cuidado, pasó a segundo plano tomando relevancia la venta online y la promoción en redes sociales. 
+
+TARGET DE TIARE
+Las clientas tienen entre 30 y 50 años aproximadamente. Son mujeres actuales, profesionales, dueñas de su tiempo que valoran la comodidad en el vestir sin dejar de lado las tendencias. Les gusta verse bien, son prácticas pero detallistas. 
+No están atadas a las marcas pero sí a la calidad y diseño de lo que visten.
+Son mujeres reales, que buscan ropa con talles reales.
+
+TIARE.COM
+Será un e-commerce con paletas femeninas, de fácil navegación, limpio.
+Se priorizan las imágenes para llamar a la compra, donde las clientas se puedan identificar y visualizarse usando los productos. El logo estará presente de varias formas para generar pertenencia.
+
+Las categorías de productos tendrán un lugar relevante dentro de la homepage,  para así facilitar rápidamente la llegada a los productos deseados.
+
+Habrá también diferentes llamadores a seguir comprando como sugerencias de combinaciones dentro de las páginas de los productos, productos con stock limitados, pop ups con cupones de descuento, o con ofertas especiales.
+El carrusel de fotos de la home refuerza este objetivo.
+
+Los formularios son simples solicitando los mínimos datos indispensables ya que están dirigidos a mujeres que valoran mucho su tiempo.
+De estos formularios es importante captar datos que luego puedan utilizarse para enviar newsletter en formato mail o mensaje de WhatsApp.

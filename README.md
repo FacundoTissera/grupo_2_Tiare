@@ -1,8 +1,16 @@
+## Descripcion de integrantes:
 
 Beatriz Hambeck
 Uruguaya - Lic en Administración - Contadora - 
 Profe de Patín - Emprendedora
 Disfruto la naturaleza y mi orgullo es mi familia.
+
+Lucas Rivero:
+Me llamo Lucas Noe Rivero tengo 27 años, vivo en Moron zona oeste Bs As.
+En la actualidad trabajo como chofer en una distribuidora de bebidas, me encargo del reparto a la vez carga y descarga, armo los pedidos, etc.
+Ya trabajo hace 10 años en lo mismo y me gustaria generar un cambio en mi vida con un nuevo empleo. Creo que esta es una excelente oportunidad para poder hacerlo adquiriendo nuevos conocimientos en los cuales siempre estuve muy interesado. 
+
+## TEMATICA DEL MARKET PLACE.
 
 TIARE:
 Es un emprendimiento dedicado a la venta de ropa y accesorios para mujeres. La marca posee un showroom que durante estos tiempos y con las medidas de distanciamiento y cuidado, pasó a segundo plano tomando relevancia la venta online y la promoción en redes sociales. 

@@ -36,3 +36,10 @@ El carrusel de fotos de la home refuerza este objetivo.
 
 Los formularios son simples solicitando los mínimos datos indispensables ya que están dirigidos a mujeres que valoran mucho su tiempo.
 De estos formularios es importante captar datos que luego puedan utilizarse para enviar newsletter en formato mail o mensaje de WhatsApp.
+
+## SITIOS TOMADOS COMO REFERENTES
+https://monaca.com.ar/ 
+https://loretaonline.com/
+https://www.mercadolibre.com.ar/
+https://www.gap.com/
+https://www.tiendanube.com/tienda-disenos-nube

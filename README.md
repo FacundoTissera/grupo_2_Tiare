@@ -1,5 +1,10 @@
 ## Descripcion de integrantes:
 
+Facundo Tissera
+Vivo en Villa Maria, Cordoba, Argentina, tengo 26 años.
+Estudiante de ingles, trabajo en una fabrica Lactea como soldador Profesional.
+Estoy en busca de nuevos rumbos; Opte por la programación, algo que me gusta mucho, y cambiar mi profesión.
+
 Beatriz Hambeck
 Uruguaya - Lic en Administración - Contadora - 
 Profe de Patín - Emprendedora

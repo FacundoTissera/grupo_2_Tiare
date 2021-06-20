@@ -43,3 +43,12 @@ https://loretaonline.com/
 https://www.mercadolibre.com.ar/
 https://www.gap.com/
 https://www.tiendanube.com/tienda-disenos-nube
+
+## COLORES DE REFERENCIA 
+#9D766F  ROSA VIEJO FUERTE
+#5E5236  MARRON
+#F4EEE4  BEIGE CLARITO
+
+## TIPOGRAFIA
+MONSTERRAT SEMIBOLD
+

@@ -1,0 +1,23 @@
+{
+  "name": "Grupo-2-Tiare",
+  "version": "1.0.0",
+  "description": "Facundo Tissera: Vivo en Villa Maria, Cordoba, Argentina, tengo 26 años. Estudiante de ingles, trabajo en una fabrica Lactea como soldador Profesional. Estoy en busca de nuevos rumbos; Opte por la programación, algo que me gusta mucho, y cambiar mi profesión.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacundoTissera/grupo_2_Tiare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacundoTissera/grupo_2_Tiare/issues"
+  },
+  "homepage": "https://github.com/FacundoTissera/grupo_2_Tiare#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

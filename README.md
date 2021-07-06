@@ -1,6 +1,6 @@
 ## Descripcion de integrantes:
 
-Facundo Tissera
+Facundo Tissera:
 Vivo en Villa Maria, Cordoba, Argentina, tengo 26 años.
 Estudiante de ingles, trabajo en una fabrica Lactea como soldador Profesional.
 Estoy en busca de nuevos rumbos; Opte por la programación, algo que me gusta mucho, y cambiar mi profesión.
@@ -45,9 +45,10 @@ https://www.gap.com/
 https://www.tiendanube.com/tienda-disenos-nube
 
 ## COLORES DE REFERENCIA 
-#9D766F  ROSA VIEJO FUERTE
+#9D766F  ROSA FUERTE
 #5E5236  MARRON
 #F4EEE4  BEIGE CLARITO
+#EBC6BE  ROSA SUAVE
 
 ## TIPOGRAFIA
 MONSTERRAT SEMIBOLD

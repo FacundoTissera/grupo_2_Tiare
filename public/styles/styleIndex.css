@@ -1,0 +1,100 @@
+/* ---REFERENCIAS---
+#9D766F    ROSA VIEJO FUERTE
+#5E5236   MARRON
+#F4EEE4 BEIGE CLARITO
+Typold Extended . Thin
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    box-sizing: border-box;
+}
+
+/*BODY*/
+body{
+    background-color: #F7F7F7;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    font-size: 11px;
+}
+/*BODY*/
+/*HEADER*/
+header{
+    background-color: #F7F7F7 ;
+    margin-top: 8px;
+}
+.cabeza-footer{
+    height: 15px;
+    background-color: #9D766F;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0px;
+    margin-top: 0px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color:#5E5236;
+    font-weight: bold;
+    
+}
+.cajaNav{
+    display:flex;
+    justify-content: center;
+
+}
+
+/*HEADER*/
+/*MAIN*/
+
+
+.articulos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 15px;
+    border: red solid;
+}
+
+.descripciones, .precios, .loQuiero{
+    color: #5E5236;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+.descripciones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: #F4EEE4;
+    width: 59%;
+}
+
+.loQuiero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: #ebc6be;
+    width: 35%;
+}
+
+/*MAIN*/
+/*FOOTER*/
+
+
+
+/*FOOTER*/
+/*MEDIASQUERIS/*/
+/* @media(min-width:361px){
+    a{
+        display: none;
+    }
+} */
+/*MEDIASQUERIS/*/

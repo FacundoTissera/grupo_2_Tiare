@@ -5,7 +5,7 @@ Vivo en Villa Maria, Cordoba, Argentina, tengo 26 años.
 Estudiante de ingles, trabajo en una fabrica Lactea como soldador Profesional.
 Estoy en busca de nuevos rumbos; Opte por la programación, algo que me gusta mucho, y cambiar mi profesión.
 
-Beatriz Hambeck
+Beatriz Hambeck: 
 Uruguaya - Lic en Administración - Contadora - 
 Profe de Patín - Emprendedora
 Disfruto la naturaleza y mi orgullo es mi familia.
@@ -51,4 +51,7 @@ https://www.tiendanube.com/tienda-disenos-nube
 
 ## TIPOGRAFIA
 MONSTERRAT SEMIBOLD
+
+## TABLERO DE TRABAJO
+https://trello.com/b/boXT1nP4/proyecto-integrador-tiare-g2
 

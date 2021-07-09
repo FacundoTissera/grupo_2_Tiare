@@ -91,6 +91,27 @@ a{
 
 
 /*FOOTER*/
+
+/*LOGIN*/ 
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25px;
+    
+}
+
+.locura{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.entrar, .recuerdame{
+    display: flex;
+    flex-direction: row;
+}
 /*MEDIASQUERIS/*/
 /* @media(min-width:361px){
     a{

@@ -63,5 +63,43 @@
         </nav>     
     
     </header>
+   <main>
+       <form action="/login" method="POST" class="login">
+        
+        <fieldset>
+
+            <legend>¡INGRESA!</legend>
+        <p>
+        <label for="usuario">Nombre de usuario:</label> <br>
+        <input type="text" name="usuario">
+        </p>
+
+        <p>
+            <label for="clave">Contraseña: </label> <br>
+            <input type="password" name="clave" id="clave">
+        </p>
+        
+        <p class="locura">
+           
+        <div class="recuerdame"><input type="checkbox" name="recuerdame">
+           <label for="recuerdame">Recuérdame</label></div>
+          <div class="entrar"><button>ENTRAR</button></div> 
+
+        </p>
+        <p>
+             <a href="#">¿Olvidaste la Contraseña?</a>
+            
+        </p>
+        <p>
+            <a href="/register">¿TODAVIA NO TENES CUENTA? ¡REGISTRATE!</a>
+
+        </p>
+    </fieldset>
+       
+
+       </form>
+
+ 
+   </main>
 </body>
 </html>

@@ -19,6 +19,9 @@ app.get('/productCart', (req, res) =>{
 app.get('/productDetail', (req, res) =>{
     res.sendFile(path.join(__dirname,'views/productDetail.html'));
 });
+app.get('/register', (req, res) =>{
+    res.sendFile(path.join(__dirname,'views/register.html'));
+});
 
 app.listen('3000', ()=>{
     console.log('El servidor 3000, está funcionando');

@@ -94,7 +94,7 @@ a{
 
 /*LOGIN*/ 
 
-.login{
+.login,{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -143,6 +143,59 @@ legend{
     cursor: pointer;
     font-weight: bolder;
 }
+/*LOGIN*/ 
+
+/*REGISTER FORM*/
+.register-form{
+    padding: 25px 15px;
+}
+.datos-registro{
+    margin-bottom: 10px;
+}
+.label-nombre{
+    margin-top: 10px;
+}
+.datos-registro label{
+    display:block;
+    margin-bottom: 5px;
+    font-size:larger;
+
+}
+.datos-registro input{
+    width:100%;
+    padding:8px;
+}
+.datos-registro #provincia{
+    width:100%;
+    padding:8px;  
+}
+#numero-puerta{
+    width:25%;
+    margin-top: 10px;
+}
+#codigo-postal{
+    width:25%;
+}
+.acepto-newsletter{
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+.enviar{
+   margin: 20px 0px;
+    background-color: #5E5236;
+    color: #F7F7F7;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.enviar-registro{
+    display: flex;
+    justify-content: center;
+}
+
+
+/*REGISTER FORM*/
 /*MEDIASQUERIS/*/
 /* @media(min-width:361px){
     a{

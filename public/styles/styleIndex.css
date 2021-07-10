@@ -102,15 +102,46 @@ a{
     
 }
 
-.locura{
-    display: flex;
-    justify-content: space-between;
-
+fieldset{
+    background-color: #F4EEE4 ;
+    color: #5E5236;
+    border-color: #9D766F;
+    border: 9px groove (internal value) ;
+    border-radius: 7px;
 }
-
-.entrar, .recuerdame{
+legend{
+    color: #5E5236;
+    font-weight: bold;
+}
+#usuario, #clave{
+    width: 100%;
+}
+.usuario, .contraseña{
+    font-size: 12px;
+    padding-bottom: 8px;
+}
+.caja-recuerdame{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px 5px ;
+}
+.recuerdame{
+    display: flex;
+    align-items: center;
+
+}
+.entrar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    background-color: #5E5236;
+    color: #F7F7F7;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
 }
 /*MEDIASQUERIS/*/
 /* @media(min-width:361px){

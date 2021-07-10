@@ -119,6 +119,8 @@ legend{
 }
 #usuario, #clave{
     width: 100%;
+    padding:8px;
+    margin-top: 5px;
 }
 .usuario, .contraseña{
     font-size: 12px;
@@ -206,4 +208,14 @@ legend{
         display: none;
     }
 } */
+@media (min-width:768px){
+    .register-form{
+        display:flex;
+        justify-content: center;
+        font-size: 12px;
+    }
+    .register-form fieldset{
+        width:75%;
+    }
+}
 /*MEDIASQUERIS/*/

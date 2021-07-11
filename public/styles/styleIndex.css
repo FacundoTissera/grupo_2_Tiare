@@ -15,6 +15,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     margin: 0 auto;
     font-size: 11px;
+    color:#5E5236;
 }
 /*BODY*/
 /*HEADER*/
@@ -48,18 +49,30 @@ a{
 
 /*HEADER*/
 /*MAIN*/
-
-
+.titulo-productos{
+    text-align: center;
+}
+.secciones-articulos{
+    display: flex;
+    flex-direction: column;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
 .articulos{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     padding-top: 15px;
-    border: red solid;
     width: 45%;
 }
-.fotoProducto{
+.foto-producto{
     width: 100%;
 }
 .descripciones, .precios, .loQuiero{
@@ -85,8 +98,20 @@ a{
     margin-top: 10px;
     border-radius: 8px;
     background-color: #ebc6be;
-    width: 35%;
-    height: 38px;
+    width: 59%;
+    height: 46px;
+}
+.ver-mas{
+    text-align: center;
+    margin: 15px 30%;
+    padding: 15px;
+    background-color: #5E5236;
+    color: #F7F7F7;
+    border-radius: 5px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    
 }
 
 /*MAIN*/

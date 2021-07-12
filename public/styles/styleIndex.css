@@ -114,7 +114,26 @@ article{
     
 }
 
+
+
 /*MAIN*/
+
+
+/*BOTON DE WHATSAPP*/
+
+.button-whatsapp{
+    background-color: transparent;
+    position: fixed;
+    right: 11px;
+    bottom: 50px;
+    border: none;
+
+}
+.whatsapp{
+    width: 50px;
+}
+
+/*BOTON DE WHATSAPP*/
 /*FOOTER*/
 
 

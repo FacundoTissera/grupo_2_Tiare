@@ -225,8 +225,41 @@ legend{
     justify-content: center;
 }
 
-
 /*REGISTER FORM*/
+
+/*PRODUCT DETAIL*/
+.imagen-producto-principal{
+    text-align: center;
+    margin-top: 40px;
+}
+.imagenes-chicas{
+    display:flex; 
+    width:80%;
+    justify-content: space-between;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.imagenes-chicas > div{
+    width:20%;
+}
+.imagenes-chicas img{
+    width:100%;
+    justify-content: center;
+
+}
+.agregar-carrito{
+    margin: 20px 0px;
+    background-color: #5E5236;
+    color: #F7F7F7;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.eleccion-producto .agregar-carrito{
+    display:flex
+}
+/*PRODUCT DETAIL*/
+
 /*MEDIASQUERIS/*/
 /* @media(min-width:361px){
     a{

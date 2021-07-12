@@ -38,17 +38,17 @@ Los formularios son simples solicitando los mínimos datos indispensables ya que
 De estos formularios es importante captar datos que luego puedan utilizarse para enviar newsletter en formato mail o mensaje de WhatsApp.
 
 ## SITIOS TOMADOS COMO REFERENTES
-https://monaca.com.ar/ 
-https://loretaonline.com/
-https://www.mercadolibre.com.ar/
-https://www.gap.com/
-https://www.tiendanube.com/tienda-disenos-nube
+- https://monaca.com.ar/ 
+- https://loretaonline.com/
+- https://www.mercadolibre.com.ar/
+- https://www.gap.com/
+- https://www.tiendanube.com/tienda-disenos-nube
 
 ## COLORES DE REFERENCIA 
-#9D766F  ROSA FUERTE
-#5E5236  MARRON
-#F4EEE4  BEIGE CLARITO
-#EBC6BE  ROSA SUAVE
+- #9D766F  ROSA FUERTE
+- #5E5236  MARRON
+- #F4EEE4  BEIGE CLARITO
+- #EBC6BE  ROSA SUAVE
 
 ## TIPOGRAFIA
 MONSTERRAT SEMIBOLD

@@ -192,6 +192,11 @@ legend{
     border-radius: 5px;
     cursor: pointer;
     font-weight: bolder;
+    padding: 10px;
+}
+.entrar:hover{
+    background-color: #ebc6be;
+    color: #5E5236;
 }
 /*LOGIN*/ 
 
@@ -238,6 +243,12 @@ legend{
     border-radius: 5px;
     cursor: pointer;
     font-weight: bolder;
+    padding: 10px;
+}
+
+.enviar:hover{
+    background-color: #ebc6be;
+    color: #5E5236;
 }
 .enviar-registro{
     display: flex;
@@ -272,11 +283,11 @@ legend{
 .div-eleccion-producto p{
     margin-top: 0;
     font-weight: bold;
-    font-size: larger;
+    font-size: 1.5em;
 }
 
 .eleccion-producto fieldset{
-    font-size: 14px;
+    font-size: 1.3em;
     margin: 20px 0;
     padding:10px;
 }
@@ -299,16 +310,17 @@ legend{
     border-radius: 5px;
     cursor: pointer;
     padding: 10px;
-    font-size: larger;
+    font-size: 1.5em;
 }
 .agregar-carrito button:hover{
     background-color: #ebc6be;
     color:#5E5236;
 }
-.descripcion-del-producto {
-    font-size: 14px;
-    margin:1% 15%;
+.texto-descripcion {
+    font-size: 1.6em;
+    margin:1% 12.5%;
 }
+
 /*PRODUCT DETAIL*/
 
 /*MEDIASQUERIS/*/
@@ -325,6 +337,35 @@ legend{
     }
     .register-form fieldset{
         width:75%;
+    }
+    .imagenes-y-eleccion{
+        display: flex;
+    }
+    .imagenes-producto{
+        width:50%;
+    }
+    .div-eleccion-producto{
+        width: 50%;
+        align-items: flex-start;
+        margin-top: 100px;
+        font-size: larger;
+    }
+    .imagen-producto-principal h2{
+        display:none
+    }
+    div .eleccion-producto{
+        font-size: 20px;
+    }
+    .texto-descripcion {
+        margin: 40px 60px;
+        font-size: 2em;
+    }
+    .medidas-producto{
+        margin-top: 0;
+    }
+    .medidas{
+        display:flex;
+        justify-content: space-between ;
     }
 }
 /*MEDIASQUERIS/*/

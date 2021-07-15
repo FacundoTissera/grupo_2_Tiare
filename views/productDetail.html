@@ -68,80 +68,87 @@
     
     </header>
     <main>
-        <div class="imagenes-producto">
-            <div class="imagen-producto-principal">
-                <h2>CAMISA SUIZA</h2>
-                <img src="/image/camisa1_1.jpeg" alt="camisa blanca" width=80%>
+        <section class="imagenes-y-eleccion">
+            <div class="imagenes-producto">
+                <div class="imagen-producto-principal">
+                    <h2>CAMISA SUIZA</h2>
+                    <img src="/image/camisa1_1.jpeg" alt="camisa blanca" width=80%>
+                </div>
+                <div class="imagenes-chicas">
+                    <div>
+                        <img src="/image/camisa1_1.jpeg" alt="camisa blanca" width=100%>
+                    </div>
+                    <div>
+                        <img src="/image/camisa1_2.jpeg" alt="camisa natural">
+                    </div>
+                    <div>
+                        <img src="/image/camisa1_3.jpeg" alt="camisa negra">
+                    </div>
+                    <div>
+                        <img src="/image/camisa1_4.jpeg" alt="camisa suela">
+                    </div>
+                </div>
             </div>
-            <div class="imagenes-chicas">
-                <div>
-                    <img src="/image/camisa1_1.jpeg" alt="camisa blanca" width=100%>
-                </div>
-                <div>
-                    <img src="/image/camisa1_2.jpeg" alt="camisa natural">
-                </div>
-                <div>
-                    <img src="/image/camisa1_3.jpeg" alt="camisa negra">
-                </div>
-                <div>
-                    <img src="/image/camisa1_4.jpeg" alt="camisa suela">
-                </div>
+            <div class="div-eleccion-producto">
+                <form class="eleccion-producto">
+                    <p>CAMISA SUIZA</p>
+                    <p>$ 2.500</p>
+                    <fieldset>
+                        <legend>Elige un color</legend>
+                        <label>
+                            <input type="radio" name="color" value="Blanco">Blanco
+                        </label>
+                        <label>
+                            <input type="radio" name="color" value="Natural">Natural
+                        </label>
+                        <label>
+                            <input type="radio" name="color" value="Negro">Negro
+                        </label>
+                        <label>
+                            <input type="radio" name="color" value="Suela">Suela
+                        </label>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Elige un talle</legend>
+                        <label>
+                            <input type="radio" name="talle" value="1"> 1
+                        </label>
+                        <label>
+                            <input type="radio" name="talle" value="2"> 2
+                        </label>
+                    </fieldset>
+                    <div class="agregar-carrito">
+                        <button type="submit" class="agregar-carrito">Agregar al carrito</button>
+                    </div>
+                </form>
             </div>
-        </div>
-        <div class="div-eleccion-producto">
-            <form class="eleccion-producto">
-                <h3>CAMISA SUIZA</h3>
-                <p>$ 2.500</p>
-                <fieldset>
-                    <legend>Elige un color</legend>
-                    <label>
-                        <input type="radio" name="color" value="Blanco">Blanco
-                    </label>
-                    <label>
-                        <input type="radio" name="color" value="Natural">Natural
-                    </label>
-                    <label>
-                        <input type="radio" name="color" value="Negro">Negro
-                    </label>
-                    <label>
-                        <input type="radio" name="color" value="Suela">Suela
-                    </label>
-                </fieldset>
-                <fieldset>
-                    <legend>Elige un talle</legend>
-                    <label>
-                        <input type="radio" name="talle" value="1"> 1
-                    </label>
-                    <label>
-                        <input type="radio" name="talle" value="2"> 2
-                    </label>
-                </fieldset>
-                <div class="agregar-carrito">
-                    <button type="submit" class="agregar-carrito">Agregar al carrito</button>
-                </div>
-            </form>
-        </div>
-        <div class="descripcion-del-producto">
-            <h2>Descripción:</h2>
-            <p>Camisa manga larga.<br>
-                Tela: Mezcla, 70% Rayón , 30% poliéster.</p>
-            <p class="medidas-producto">
-                TALLE 1:<br>
-                Ancho de hombros: 13.50 cm.<br>
-                Contorno de hombros: 84 cm.<br>
-                Contorno de pecho: 100 cm.<br>
-                Largo de manga: 64 cm.<br>
-                Largo de talle: 70 cm.<br>
-            </p>
-            <p class="medidas-producto"></p>
-                TALLE 2:<br>
-                Ancho de hombros: 15.50 cm.<br>
-                Contorno de hombros: 88 cm.<br>
-                Contorno de pecho: 104 cm.<br>
-                Largo de manga: 66 cm.<br>
-                Largo de talle: 74 cm.<br>
-            </p>     
-        </div>
-
+        </section>
+        <section class="texto-descripcion">
+            <div class="descripcion-del-producto">
+                <h2>Descripción:</h2>
+                <p>Camisa manga larga.<br>
+                    Tela: Mezcla, 70% Rayón, 30% poliéster.
+                </p>
+            </div>
+            <h2>Medidas:</h2>    
+            <div class="medidas">
+                <p class="medidas-producto">
+                    TALLE 1:<br>
+                    Ancho de hombros: 13.50 cm.<br>
+                    Contorno de hombros: 84 cm.<br>
+                    Contorno de pecho: 100 cm.<br>
+                    Largo de manga: 64 cm.<br>
+                    Largo de talle: 70 cm.<br>
+                </p>
+                <p class="medidas-producto">
+                    TALLE 2:<br>
+                    Ancho de hombros: 15.50 cm.<br>
+                    Contorno de hombros: 88 cm.<br>
+                    Contorno de pecho: 104 cm.<br>
+                    Largo de manga: 66 cm.<br>
+                    Largo de talle: 74 cm.<br>
+                </p>     
+            </div>
+        </section>
 
     </main>

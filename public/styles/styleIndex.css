@@ -294,7 +294,7 @@ legend{
 .eleccion-producto fieldset label{
     white-space: nowrap;
 }
- div .eleccion-producto{
+div .eleccion-producto{
     width:85%;
     padding: 10px;
     display: flex;
@@ -347,8 +347,11 @@ legend{
     .div-eleccion-producto{
         width: 50%;
         align-items: flex-start;
-        margin-top: 100px;
+        margin-top: 29px;
         font-size: larger;
+    }
+    .descripcion-del-producto{
+        font-size: 15px;
     }
     .imagen-producto-principal h2{
         display:none
@@ -357,7 +360,7 @@ legend{
         font-size: 20px;
     }
     .texto-descripcion {
-        margin: 40px 60px;
+        margin: 4px 60px;
         font-size: 2em;
     }
     .medidas-producto{

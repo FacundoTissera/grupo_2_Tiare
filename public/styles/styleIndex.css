@@ -362,10 +362,11 @@ legend{
     }
     .medidas-producto{
         margin-top: 0;
+        padding-right: 40px;
     }
     .medidas{
         display:flex;
-        justify-content: space-between ;
+        padding: 5px;
     }
 }
 /*MEDIASQUERIS/*/

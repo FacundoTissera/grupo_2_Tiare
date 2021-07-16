@@ -26,7 +26,7 @@ body{
 /*BODY*/
 /*HEADER*/
 header{
-    background-color: #F7F7F7 ;
+    background-color: white ;
     margin-top: 8px;
 }
 .cabeza-footer{
@@ -350,10 +350,11 @@ table{
     display: flex;
     justify-content: center;
     margin: 3% 10%;
+    border-collapse: collapse;
 }
 tbody td{
     border-style: solid;
-    border-color:#F4EEE4;
+    border-color:#d0aea8;
     
 }
 th, td{

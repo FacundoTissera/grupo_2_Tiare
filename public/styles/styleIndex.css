@@ -4,6 +4,7 @@
 #F4EEE4 BEIGE CLARITO
  GRIS MUY LCARO
 #D0AEA8 rosa fuerte
+#f9efed: rosa viejo clarito
 #D4C6C3;
 #F7F7F7
 #e8c5c58c rosa claro con transparencia
@@ -16,7 +17,7 @@ Typold Extended . Thin
 
 /*BODY*/
 body{
-    background-color:#e8c5c58c  ;
+    background-color:#e8c5c58c ;
     font-family: 'Montserrat', sans-serif;
     margin: 0 auto;
     font-size: 11px;
@@ -75,7 +76,7 @@ article{
     align-items: center;
     flex-direction: column;
     margin-top: 20px;
-    width: 80%;
+    width: 75%;
     background:linear-gradient(to bottom,white 6%, #ebc6be) ;
     box-shadow: 1px -1px 10px 0px rgb(100 100 100);
 }
@@ -339,6 +340,26 @@ div .eleccion-producto{
     font-size: 1.6em;
     margin:1% 12.5%;
 }
+.medidas{
+    display: flex;
+    justify-content: center;
+}
+table{
+    table-layout: fixed;
+    display: flex;
+    justify-content: center;
+    margin: 3% 10%;
+}
+tbody td{
+    border-style: solid;
+    border-color:#F4EEE4;
+    
+}
+th, td{
+    padding: 10px;
+    width: 200px ;
+    text-align: center;
+}
 
 /*PRODUCT DETAIL*/
 
@@ -384,10 +405,7 @@ div .eleccion-producto{
         margin-top: 0;
         padding-right: 40px;
     }
-    .medidas{
-        display:flex;
-        padding: 5px;
-    }
+
 }
 @media (min-width:1200px){
     div .eleccion-producto{

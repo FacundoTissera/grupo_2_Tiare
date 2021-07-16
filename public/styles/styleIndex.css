@@ -75,7 +75,7 @@ article{
     align-items: center;
     flex-direction: column;
     margin-top: 20px;
-    width: 45%;
+    width: 80%;
     background:linear-gradient(to bottom,white 6%, #ebc6be) ;
     box-shadow: 1px -1px 10px 0px rgb(100 100 100);
 }
@@ -102,9 +102,19 @@ article{
     justify-content: center;
     margin-top: 10px;
     border-radius: 8px;
-    
     width: 59%;
     height: 46px;
+    margin: 20px 0px;
+    background-color: #F4EEE4;
+    color: #5E5236;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 1.5em;
+
+}
+.loQuiero:hover{
+    background-color: #9D766F;
+    color: #F4EEE4;
 }
 .ver-mas{
     text-align: center;
@@ -286,27 +296,31 @@ legend{
     justify-content: center;
 }
 .div-eleccion-producto p{
-    margin-top: 0;
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 .eleccion-producto fieldset{
-    font-size: 1.3em;
+    font-size: 1em;
     margin: 20px 0;
     padding:10px;
 }
 .eleccion-producto fieldset label{
     white-space: nowrap;
 }
+
 div .eleccion-producto{
     width:85%;
     padding: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     text-align: center;
     font-size: 14px;
+}
+.eleccion-producto input{
+    width:1.3em;
+    height: 1.3em;
 }
 .agregar-carrito button{
     margin: 20px 0px;
@@ -314,7 +328,7 @@ div .eleccion-producto{
     color: #F7F7F7;
     border-radius: 5px;
     cursor: pointer;
-    padding: 10px;
+    padding: 15px;
     font-size: 1.5em;
 }
 .agregar-carrito button:hover{
@@ -351,18 +365,16 @@ div .eleccion-producto{
     }
     .div-eleccion-producto{
         width: 50%;
-        align-items: flex-start;
-        margin-top: 29px;
-        font-size: larger;
+        align-items:stretch;
     }
     .descripcion-del-producto{
-        font-size: 15px;
+        font-size: 1em;
     }
     .imagen-producto-principal h2{
         display:none
     }
     div .eleccion-producto{
-        font-size: 20px;
+        font-size: 16px;
     }
     .texto-descripcion {
         margin: 4px 60px;
@@ -375,6 +387,11 @@ div .eleccion-producto{
     .medidas{
         display:flex;
         padding: 5px;
+    }
+}
+@media (min-width:1200px){
+    div .eleccion-producto{
+        font-size: 20px;
     }
 }
 /*MEDIASQUERIS/*/

@@ -2,6 +2,11 @@
 #9D766F    ROSA VIEJO FUERTE
 #5E5236   MARRON
 #F4EEE4 BEIGE CLARITO
+ GRIS MUY LCARO
+#D0AEA8 rosa fuerte
+#D4C6C3;
+#F7F7F7
+#e8c5c58c rosa claro con transparencia
 Typold Extended . Thin
 */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
@@ -11,7 +16,7 @@ Typold Extended . Thin
 
 /*BODY*/
 body{
-    background-color: #F7F7F7;
+    background-color:#e8c5c58c  ;
     font-family: 'Montserrat', sans-serif;
     margin: 0 auto;
     font-size: 11px;

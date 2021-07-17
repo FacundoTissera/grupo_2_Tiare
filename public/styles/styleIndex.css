@@ -370,15 +370,31 @@ th, td{
 .basado-en-tu-compra h2{
     text-align: center;
 }
+.basado-en-tu-compra{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+
+}
+
 
 /*PRODUCT DETAIL*/
 
 /*MEDIASQUERIS/*/
-/* @media(min-width:361px){
-    a{
+@media(min-width:361px){
+    /*a{
         display: none;
+    }*/
+   
+    .productos-sugeridos article{
+        width:50%
     }
-} */
+    .productos-sugeridos{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+} 
 @media (min-width:768px){
     .register-form{
         display:flex;
@@ -415,7 +431,9 @@ th, td{
         margin-top: 0;
         padding-right: 40px;
     }
-
+    .productos-sugeridos article{
+        width:25%;
+    }
 }
 @media (min-width:1200px){
     div .eleccion-producto{

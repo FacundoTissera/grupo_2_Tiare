@@ -27,12 +27,17 @@ body{
 /*HEADER*/
 header{
     background-color: white ;
-    margin-top: 8px;
+    
 }
 .cabeza-footer{
     height: 15px;
     background-color: #9D766F;
 }
+
+nav{
+    padding-bottom: 1px;
+}
+
 ul{
     display: flex;
     justify-content: space-around;

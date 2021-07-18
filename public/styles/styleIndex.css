@@ -14,7 +14,7 @@ Typold Extended . Thin
 *{
     box-sizing: border-box;
 }
-
+/*----INDEX*/
 /*BODY*/
 body{
     background-color:#e8c5c58c ;
@@ -28,10 +28,6 @@ body{
 header{
     background-color: white ;
     
-}
-.cabeza-footer{
-    height: 15px;
-    background-color: #9D766F;
 }
 
 nav{
@@ -62,6 +58,10 @@ a{
 /*MAIN*/
 .titulo-productos{
     text-align: center;
+    padding: 8px;
+    font-size: 22px;
+    background-color:antiquewhite ;
+    margin-top: 5px;
 }
 .secciones-articulos{
     display: flex;
@@ -103,24 +103,7 @@ article{
 }
 
 .loQuiero{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 10px;
-    border-radius: 8px;
-    width: 59%;
-    height: 46px;
-    margin: 20px 0px;
-    background-color: #F4EEE4;
-    color: #5E5236;
-    cursor: pointer;
-    padding: 15px;
-    font-size: 1.5em;
-    
-}
-.loQuiero:hover{
-    background-color: #9D766F;
-    color: #F4EEE4;
+    display: none;
 }
 .ver-mas{
     text-align: center;
@@ -157,9 +140,48 @@ article{
 /*BOTON DE WHATSAPP*/
 /*FOOTER*/
 
+.cabeza-footer {
+    height: 15px;
+    background-color: #9D766F;
+}
+.derechos-reservados{
+    margin: 0px;
+    color: #FFFFFF;
+}
+.iconos-footer{
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.ico-countain{
+    font-size: 48px;
+}
+.ico-countain:hover{
+    color: lightseagreen;
+}
+h4{
+    font-size: 15px;
+}
+.imagenes-redes-sociales{
+    width: 40px;
+    border-radius: 7px;
+    margin-right: 5px;
+}
+.caja-contactos-redes-preguntas{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.titulos-contactos-redes-preguntas{
+    text-align: center ;
+}
 
 
 /*FOOTER*/
+
+/*----INDEX*/
+
 
 /*LOGIN*/ 
 
@@ -431,10 +453,10 @@ div .camisaimagen{
 
 /*MEDIASQUERIS/*/
 @media(min-width:361px){
-    /*a{
-        display: none;
-    }*/
-   
+/*--INDEX--*/
+
+
+/*--INDEX--*/
     .productos-sugeridos article{
         width:50%
     }
@@ -445,6 +467,59 @@ div .camisaimagen{
     }
 } 
 @media (min-width:768px){
+
+    /*---INDEX--*/
+    main section div.articulos .loQuiero{
+        display: none;
+    }
+    main section div.articulos:hover .loQuiero{
+        display: flex;
+    }
+.secciones-articulos{
+    display: flex;
+
+}
+.articulos-linea1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.articulos-linea2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.articulos{
+    width: 37%;
+}
+    .loQuiero{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        border-radius: 8px;
+        width: 59%;
+        height: 46px;
+        margin: 20px 0px;
+        background-color: #F4EEE4;
+        color: #5E5236;
+        cursor: pointer;
+        padding: 15px;
+        font-size: 1.5em;
+    }
+    .loQuiero:active{
+        background-color: #9D766F;
+        color: #F4EEE4;
+    }
+
+    .caja-footer{
+        margin: 51px 0px 4px 0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    /*---INDEX--*/
     .register-form{
         display:flex;
         justify-content: center;
@@ -484,7 +559,7 @@ div .camisaimagen{
         width:25%;
     }
 }
-@media (min-width:1200px){
+@media (min-width:1080px){
     div .eleccion-producto{
         font-size: 20px;
     }

@@ -414,8 +414,17 @@ th, td{
 
 }
 .precio-carrito{
-    text-align: end;
+    display: flex;
+    font-size: 14px;
+    width: 50px;
+    margin-right: 20px;
+   
 }
+.fa-trash-alt{
+    font-size: 20px;
+    
+}
+
 
 .cantidad-subtotal{
     font-size: 14px;
@@ -446,7 +455,14 @@ div .camisaimagen{
 }
 
 .barrita{
-    width: 80px;
+    width: 60px;
+}
+
+.tarjetasdecredito{
+width: 200px;
+}
+.mercadopagologo{
+    width: 150px;
 }
 
 /*PRODUCT CART*/

@@ -402,6 +402,51 @@ th, td{
 
 /*PRODUCT DETAIL*/
 
+/*PRODUCT CART*/
+.titulos-carrito{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    font-size: 14px;
+}
+.prendas{
+    display: flex;
+
+}
+.cantidad-subtotal{
+    font-size: 14px;
+}
+
+div .buzoimagen{
+    width: 30%;
+}
+div .camisaimagen{
+    width: 30%;
+}
+
+.iniciar-compra{
+    border: solid 3px brown;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.mas-productos{
+    font-size: 14px;
+    text-align: center;
+    text-decoration: underline;
+}
+.barrita1{
+    width: 30px;
+}
+
+.barrita{
+    width: 80px;
+}
+
+/*PRODUCT CART*/
+
 /*MEDIASQUERIS/*/
 @media(min-width:361px){
 /*--INDEX--*/

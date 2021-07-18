@@ -391,6 +391,10 @@ th, td{
     display: flex;
 
 }
+.precio-carrito{
+    text-align: end;
+}
+
 .cantidad-subtotal{
     font-size: 14px;
 }

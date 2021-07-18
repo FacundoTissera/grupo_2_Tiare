@@ -435,10 +435,23 @@ th, td{
     
 }
 
-
-.cantidad-subtotal{
-    font-size: 14px;
+.cantidad{
+    font-size: 10px;
 }
+
+.subtotal-total{
+    display: flex;
+    font-size: 14px;
+    border: solid 1px gray;
+
+}
+.subtotal-total1{
+    display: flex;
+    font-size: 18px;
+    border: solid 1px gray;
+    height: 70px;
+}
+
 
 div .buzoimagen{
     width: 30%;
@@ -461,10 +474,12 @@ div .camisaimagen{
     text-decoration: underline;
 }
 .barrita1{
+    display: flex;
     width: 30px;
 }
 
 .barrita{
+display: flex;
     width: 60px;
 }
 

@@ -418,6 +418,7 @@ th, td{
     justify-content: space-between;
     margin: 10px;
     font-size: 14px;
+    font-weight: bold;
 }
 .prendas{
     display: flex;
@@ -428,7 +429,7 @@ th, td{
     font-size: 14px;
     width: 50px;
     margin-right: 20px;
-   
+   font-weight: bold;
 }
 .fa-trash-alt{
     font-size: 20px;
@@ -441,15 +442,27 @@ th, td{
 
 .subtotal-total{
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
     font-size: 14px;
     border: solid 1px gray;
+    background-color: #eee9df;
+    font-weight: bold;
+
 
 }
 .subtotal-total1{
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
     font-size: 18px;
     border: solid 1px gray;
     height: 70px;
+    background-color: #eee9df;
+    font-weight: bold;
+
 }
 
 
@@ -466,6 +479,9 @@ div .camisaimagen{
     color: white;
     text-align: center;
     font-size: 16px;
+}
+.iniciar-compra:hover{
+    background-color: blueviolet;
 }
 
 .mas-productos{
@@ -484,10 +500,10 @@ display: flex;
 }
 
 .tarjetasdecredito{
-width: 200px;
+width: 220px;
 }
 .mercadopagologo{
-    width: 150px;
+    width: 170px;
 }
 
 /*PRODUCT CART*/

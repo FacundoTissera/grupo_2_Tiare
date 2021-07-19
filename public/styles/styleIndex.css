@@ -434,6 +434,7 @@ div.titulos-carrito p{
 }
 .prendas{
     display: flex;
+    justify-content: space-between;
     margin-top: 11px;
 }
 .prendas p{
@@ -446,6 +447,7 @@ div.titulos-carrito p{
     width: 50px;
     margin-right: 20px;
     font-weight: bold;
+    margin-right: 25px;
 }
 .fa-trash-alt{
     font-size: 20px;
@@ -454,10 +456,12 @@ div.titulos-carrito p{
 }
 
 .cantidad{
-
     display: flex;
-    align-items: center;
     margin: 7px 15px;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
 }
 .fa-plus, .fa-minus{
     font-size: medium;
@@ -519,13 +523,13 @@ div .camisaimagen{
 
     color: #5E5236;
 }
-
 .cajas-imagenes-tarjetas-carrito{
     display: flex;
+    justify-content: center;
 }
 .tarjetasdecredito{
-    width: 45%;
-    height: 100px;
+    width: 70%;
+    height: 25%;
 }
 .barrita1{
     display: flex;
@@ -709,7 +713,14 @@ header{
         margin-top: 20px;
         padding:30px;
     }
-    
+    /*PRODUCTCART*/
+
+    .tarjetasdecredito{
+
+        width: 70%;
+        height: 25%;
+    }
+    /*PRODUCTCART*/
 }
 @media (min-width:1080px){
     header{

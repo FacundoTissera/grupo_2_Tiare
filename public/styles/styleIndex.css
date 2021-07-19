@@ -440,7 +440,7 @@ div.titulos-carrito p{
 .prendas{
     display: flex;
     justify-content: space-between;
-    margin-top: 11px;
+    margin: 11px;
 }
 .prendas p{
     margin-left: 10px;
@@ -496,7 +496,12 @@ div.titulos-carrito p{
 .caja-subtotal-total{
     margin-left: 10px;
 }
-
+.caja-precio{
+    margin-right: 8px;
+}
+.titulo-carrito{
+    text-align: center;
+}
 
 div .camisaimagen{
     width: 30%;

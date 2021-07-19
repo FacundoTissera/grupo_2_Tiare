@@ -420,15 +420,25 @@ th, td{
 
 /*PRODUCT CART*/
 .titulos-carrito{
+    border-top: #5e523661 dashed 1px;
+    border-bottom:#5e523661 dashed 1px; 
     display: flex;
     justify-content: space-between;
-    margin: 10px;
+    margin: 0px 10px;
     font-size: 14px;
-    font-weight: bold;
+    font-weight: bold; 
+    border: #5E5236 solid dashed ;
+}
+div.titulos-carrito p{
+    margin: 8px 0px 8px 0px;
 }
 .prendas{
     display: flex;
-
+    margin-top: 11px;
+}
+.prendas p{
+    margin-left: 10px;
+    font-weight: bold;
 }
 .precio-carrito{
     display: flex;
@@ -439,11 +449,20 @@ th, td{
 }
 .fa-trash-alt{
     font-size: 20px;
-    
+    color: #1a1a1847;
+    margin:0px 5px;
 }
 
 .cantidad{
-    font-size: 10px;
+
+    display: flex;
+    align-items: center;
+    margin: 7px 15px;
+}
+.fa-plus, .fa-minus{
+    font-size: medium;
+    margin: 5px;
+
 }
 
 .subtotal-total{
@@ -452,11 +471,8 @@ th, td{
     flex-wrap: nowrap;
     justify-content: space-between;
     font-size: 14px;
-    border: solid 1px gray;
+    border-bottom: #5e523661 dashed 1px;
     background-color: #eee9df;
-    font-weight: bold;
-
-
 }
 .subtotal-total1{
     display: flex;
@@ -464,36 +480,52 @@ th, td{
     flex-wrap: nowrap;
     justify-content: space-between;
     font-size: 18px;
-    border: solid 1px gray;
     height: 70px;
     background-color: #eee9df;
     font-weight: bold;
-
+}
+.caja-subtotal-total{
+    margin-left: 10px;
 }
 
 
-div .buzoimagen{
-    width: 30%;
-}
 div .camisaimagen{
     width: 30%;
 }
 
-.iniciar-compra{
-    border: solid 3px brown;
-    background-color: brown;
+.iniciar-compra button {
+    margin: 0px;
+    padding: 13px;
+    background-color: #bc7669;
     color: white;
     text-align: center;
     font-size: 16px;
+    width: 100%;
+    height: 46px;
+    border: none;
 }
-.iniciar-compra:hover{
-    background-color: blueviolet;
+.iniciar-compra button:hover{
+    background-color: #5E5236;
 }
 
+
 .mas-productos{
+    margin: 15px 0px;
     font-size: 14px;
     text-align: center;
     text-decoration: underline;
+}
+.ver-mas-productos-carrito{
+
+    color: #5E5236;
+}
+
+.cajas-imagenes-tarjetas-carrito{
+    display: flex;
+}
+.tarjetasdecredito{
+    width: 45%;
+    height: 100px;
 }
 .barrita1{
     display: flex;
@@ -505,9 +537,7 @@ display: flex;
     width: 60px;
 }
 
-.tarjetasdecredito{
-width: 220px;
-}
+
 .mercadopagologo{
     width: 170px;
 }

@@ -523,6 +523,21 @@ width: 220px;
         justify-content: center;
     }
 } 
+.loQuiero-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 94%;
+    height: 46px;
+    margin: 20px 0px;
+    background-color: #F4EEE4;
+    color: #5E5236;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 1.5em;
+}
 @media (min-width:768px){
 
     /*---INDEX--*/

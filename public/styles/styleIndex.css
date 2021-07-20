@@ -736,8 +736,20 @@ header{
     header{
         font-size:20px;
     }
+/*index*/
+.articulos-index{
+    width: 25%;
+}
+
+.imagenes-redes-sociales {
+    width: 40px;
+}
+/*index*/
+
+
+
     .logo-ppal-image{
-        width:35%;
+        width: 30%
     }
     div .eleccion-producto{
         font-size: 18px;

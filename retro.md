@@ -20,3 +20,26 @@ Aún no encontramos nada para destacar en este aspecto. Por ahí al comenzar rec
 
 ## STOP DOING:
 Un poco en línea con el punto anterior, por el momento nada que destacar en este sentido. 
+
+
+## RETRO SPRING 2:
+## RETROSPECTIVA GENERAL:
+El sprint 2 se realizó en tiempo y forma sumando herramientas que nos iban proporcionando en clase y aplicándolas a medida que se necesitaron. 
+Estamos muy conformes con el resultado así como con el funcionamiento del equipo en cuanto a organización, apoyo mutuo y resultados.
+No se presentaron conflictos y en caso de haber alguna diferencia de criterio, se resolvió rápidamente.
+Las tareas se divieron en forma clara y logramos trabajar en la misma rama sin llegar a pisarnos gracias a una constante y buena comunicación a través de Whatsapp y múltiples instancias de Discord.
+
+## START DOING
+Vamos a comenzar a implementar reuniones cortas de puesta a punto, o daily/weekly standup y en principio decidimos hacerlas semanales. Veremos si este ritmo es el correcto para este tipo de encuentros. La realidad es que estamos en comunicación bastante permanente, pero sentimos que probablemente este chequeo nos ayude a mantenernos un poco más enfocados. 
+
+## MORE OFF
+Aún no utilizamos el Trello en forma de herramienta y nos costaba actualizar el estado de las tareas en el mismo. Recurrir a él en forma más natural una vez que sentimos que el proyecto avanza en las tareas es algo que sentimos que podríamos hacer más.
+
+## KEEP DOING
+En nuestro proyecto además de los conocimientos que traemos de las clases, tuvimos que buscar apoyo en Google para desarrollar aspectos de la maqueta que queríamos lograr como linkear algunos íconos o generar una tabla de talles. Lo mismo sucedió para casos en los que sentimos que no conseguíamos llevar a cabo alguna de las consignas solo con el material visto en clase. Esta búsqueda de información y nuevas herramientas debemos continuar haciéndola para enriquecer el proyecto.
+
+## LESS OFF
+Por el momento no encontramos nada que debamos ir suprimiendo ya que sentimos que la forma en la que trabajamos viene siendo bastante eficiente.
+
+## STOP DOING
+Nada que comentar por acá.
